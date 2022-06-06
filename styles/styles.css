@@ -1,16 +1,20 @@
-main {
-    background-image: '';
+.sedona {
+    background-image: "pictures/index-background.png";
 }
 
 h2 {
-text-transform: uppercase;    
+text-transform: uppercase;
 }
-table {
-    border: 1px solid black;
-    border-collapse: collapse;
+
+.house {
+  background-image: "pictures/house.png";
 }
-td {
-    border: 1px solid black;
-    padding: 10px;
-    padding-right: 50px;
+.food {
+  background-image: "pictures/food.png";
+}
+.presents {
+  background-image: "pictures/presents.png"
+}
+.sign_up {
+  background-image: "pictures/contacts.png"
 }
