@@ -1,231 +1,257 @@
-.main-header-logo{
-position: absolute;
-left: 5.83%;
-right: 82.58%;
-top: 0%;
-bottom: 0%;;
+.main-header-logo {
+	position: absolute;
+	left: 5.83%;
+	right: 82.58%;
+	top: 0%;
+	bottom: 0%;
 }
 
 header ul:first-child {
-position: absolute;
-left: 19.92%;
-right: 47.58%;
-top: 0%;
-bottom: 5.71%;
-font-size: 20px;
-font-weight: 700;
+	position: absolute;
+	left: 19.92%;
+	right: 47.58%;
+	top: 0%;
+	bottom: 5.71%;
+	font-size: 20px;
+	font-weight: 700;
 }
 
-header ul:last-child{
-position: absolute;
-left: 72.18%;
-right: 5.83%;
-top: 0%;
-bottom: 5.71%;
+header ul:last-child {
+	position: absolute;
+	left: 72.18%;
+	right: 5.83%;
+	top: 0%;
+	bottom: 5.71%;
 }
 
 header a:nth-child(5) {
-color:white;
-font-size: 16px;
-font-weight:700;
-text-transform: uppercase;
-background-color:brown;
-background-size : 160px 37px;
+	color: white;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: uppercase;
+	background-color: brown;
+	background-size: 160px 37px;
 }
-.sedona {
-background-image: url("/1363151-sedona-34/pictures/index-background.png");
-}
-.sedona h1 {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 28px;
-text-align: center;
-text-transform: uppercase;
 
+.sedona {
+	background-image: url("/1363151-sedona-34/pictures/index-background.png");
 }
+
+.sedona h1 {
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
 .sedona p {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-line-height: 26px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 26px;
+	text-align: center;
 }
+
 h2 {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 28px;
-text-align: center;
-text-transform: uppercase;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	text-transform: uppercase;
 }
+
 h2:nth-child(n+3) {
-color:tomato;
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 28px;
-text-align: center;
-text-transform: uppercase;
+	color: tomato;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	text-transform: uppercase;
 }
+
 .real_city p {
-color: tomato;
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+	color: tomato;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
+}
 
 h3 {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 28px;
-text-align: center;
-text-transform: uppercase;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	text-transform: uppercase;
 }
+
 .house p {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
 }
+
 .food p {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
 }
+
 .presents p {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
 }
+
 .bridge p {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
 }
+
 .square p {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
 }
+
 .road p {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
 }
+
 .tourists p {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
 }
+
 .search {
-  background-color:tomato;
+	background-color: tomato;
 }
+
 .search p:first-child {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 36px;
-text-align: center;
-text-transform: uppercase;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 36px;
+	text-align: center;
+	text-transform: uppercase;
 }
+
 .search p:last-child {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-line-height: 26px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 26px;
+	text-align: center;
 }
+
 .search a {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 36px;
-display: flex;
-align-items: center;
-text-align: center;
-text-transform: uppercase;
-background-color:brown;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 36px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: brown;
 }
+
 .sign p:first-child {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 36px;
-text-transform: uppercase;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 36px;
+	text-transform: uppercase;
 }
+
 .sign p:last-child {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-line-height: 26px;
-text-align: center;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 26px;
+	text-align: center;
 }
+
 .sign button {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 36px;
-display: flex;
-align-items: center;
-text-align: center;
-text-transform: uppercase;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 36px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	text-transform: uppercase;
 }
+
 .adress a {
-font-family: 'PT Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 40px;
-line-height: 40px;
-text-align: center;
-text-transform: uppercase;
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 40px;
+	text-align: center;
+	text-transform: uppercase;
 }
+
 .house {
-  background-image: "pictures/house.png";
+	background-image: "pictures/house.png";
 }
+
 .food {
-  background-image: "pictures/food.png";
+	background-image: "pictures/food.png";
 }
+
 .presents {
-  background-image: "pictures/presents.png"
+	background-image: "pictures/presents.png";
 }
+
 .sign {
-  background-image: url("pictures/contacts.png");
+	background-image: url("pictures/contacts.png");
 }
+
 .sign_up p {
 
 }
