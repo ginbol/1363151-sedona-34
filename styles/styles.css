@@ -1,3 +1,8 @@
+body {
+	font-family: PT, sans;
+	font-style: normal;
+}
+
 .main-header-logo {
 	position: absolute;
 	left: 5.83%;
@@ -6,7 +11,7 @@
 	bottom: 0%;
 }
 
-header ul:first-child {
+header .menu {
 	position: absolute;
 	left: 19.92%;
 	right: 47.58%;
@@ -16,7 +21,7 @@ header ul:first-child {
 	font-weight: 700;
 }
 
-header ul:last-child {
+header .links {
 	position: absolute;
 	left: 72.18%;
 	right: 5.83%;
@@ -24,22 +29,20 @@ header ul:last-child {
 	bottom: 5.71%;
 }
 
-header a:nth-child(5) {
+.want {
 	color: white;
 	font-size: 16px;
 	font-weight: 700;
 	text-transform: uppercase;
-	background-color: brown;
+	background-color: #756157;
 	background-size: 160px 37px;
 }
 
 .sedona {
-	background-image: url("/1363151-sedona-34/pictures/index-background.png");
+	background-image: url("/pictures/index-background.png");
 }
 
-.sedona h1 {
-	font-family: "PT Sans";
-	font-style: normal;
+.small_town {
 	font-weight: 700;
 	font-size: 24px;
 	line-height: 28px;
@@ -47,18 +50,14 @@ header a:nth-child(5) {
 	text-transform: uppercase;
 }
 
-.sedona p {
-	font-family: "PT Sans";
-	font-style: normal;
+.five_reasons {
 	font-weight: 400;
 	font-size: 22px;
 	line-height: 26px;
 	text-align: center;
 }
 
-h2 {
-	font-family: "PT Sans";
-	font-style: normal;
+.real_city {
 	font-weight: 700;
 	font-size: 24px;
 	line-height: 28px;
@@ -66,10 +65,7 @@ h2 {
 	text-transform: uppercase;
 }
 
-h2:nth-child(n+3) {
-	color: tomato;
-	font-family: "PT Sans";
-	font-style: normal;
+.bridge {
 	font-weight: 700;
 	font-size: 24px;
 	line-height: 28px;
@@ -77,19 +73,14 @@ h2:nth-child(n+3) {
 	text-transform: uppercase;
 }
 
-.real_city p {
-	color: tomato;
-	font-family: "PT Sans";
-	font-style: normal;
+.not_touristic {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	text-align: center;
 }
 
-h3 {
-	font-family: "PT Sans";
-	font-style: normal;
+.advantages {
 	font-weight: 700;
 	font-size: 24px;
 	line-height: 28px;
@@ -97,63 +88,73 @@ h3 {
 	text-transform: uppercase;
 }
 
-.house p {
-	font-family: "PT Sans";
-	font-style: normal;
+.motel {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	text-align: center;
 }
 
-.food p {
-	font-family: "PT Sans";
-	font-style: normal;
+.burger {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	text-align: center;
 }
 
-.presents p {
-	font-family: "PT Sans";
-	font-style: normal;
+.local {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	text-align: center;
 }
 
-.bridge p {
-	font-family: "PT Sans";
-	font-style: normal;
+.dare {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	text-align: center;
 }
 
-.square p {
-	font-family: "PT Sans";
-	font-style: normal;
+.small {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.beautiful {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.sights {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	text-align: center;
 }
 
-.road p {
-	font-family: "PT Sans";
-	font-style: normal;
+.drive {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	text-align: center;
 }
 
-.tourists p {
-	font-family: "PT Sans";
-	font-style: normal;
+.few {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.grand {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
@@ -164,9 +165,7 @@ h3 {
 	background-color: tomato;
 }
 
-.search p:first-child {
-	font-family: "PT Sans";
-	font-style: normal;
+.interested {
 	font-weight: 700;
 	font-size: 30px;
 	line-height: 36px;
@@ -174,9 +173,7 @@ h3 {
 	text-transform: uppercase;
 }
 
-.search p:last-child {
-	font-family: "PT Sans";
-	font-style: normal;
+.dates {
 	font-weight: 400;
 	font-size: 22px;
 	line-height: 26px;
@@ -184,8 +181,6 @@ h3 {
 }
 
 .search a {
-	font-family: "PT Sans";
-	font-style: normal;
 	font-weight: 700;
 	font-size: 20px;
 	line-height: 36px;
@@ -193,21 +188,17 @@ h3 {
 	align-items: center;
 	text-align: center;
 	text-transform: uppercase;
-	background-color: brown;
+	background-color: #756157;
 }
 
-.sign p:first-child {
-	font-family: "PT Sans";
-	font-style: normal;
+.mail {
 	font-weight: 700;
 	font-size: 30px;
 	line-height: 36px;
 	text-transform: uppercase;
 }
 
-.sign p:last-child {
-	font-family: "PT Sans";
-	font-style: normal;
+.useful {
 	font-weight: 400;
 	font-size: 22px;
 	line-height: 26px;
@@ -215,8 +206,6 @@ h3 {
 }
 
 .sign button {
-	font-family: "PT Sans";
-	font-style: normal;
 	font-weight: 700;
 	font-size: 20px;
 	line-height: 36px;
@@ -226,9 +215,7 @@ h3 {
 	text-transform: uppercase;
 }
 
-.adress a {
-	font-family: "PT Sans";
-	font-style: normal;
+.telephone {
 	font-weight: 400;
 	font-size: 40px;
 	line-height: 40px;
